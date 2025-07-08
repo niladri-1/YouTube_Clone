@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![YouTube Clone Banner](https://via.placeholder.com/800x200/FF0000/FFFFFF?text=YouTube+Clone)
+![YouTube Clone Banner](app/preview.png)
 
 **A modern, fully-featured YouTube clone built with cutting-edge technologies**
 
@@ -87,13 +87,7 @@
 
 <div align="center">
 
-### 🖥️ Desktop View
-![Desktop Demo](https://via.placeholder.com/800x450/1a1a1a/ffffff?text=Desktop+View)
-
-### 📱 Mobile View
-![Mobile Demo](https://via.placeholder.com/300x600/1a1a1a/ffffff?text=Mobile+View)
-
-**[🌐 Live Demo](https://your-demo-link.vercel.app)**
+**[🌐 Live Demo](https://mytube1.vercel.app)**
 
 </div>
 
@@ -229,26 +223,6 @@ The app integrates with YouTube Data API v3 for:
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-### 🏠 Home Page
-![Home Page](https://via.placeholder.com/800x450/f8f9fa/212529?text=Home+Page+with+Trending+Videos)
-
-### 🔍 Search Results
-![Search Results](https://via.placeholder.com/800x450/f8f9fa/212529?text=Search+Results+Page)
-
-### 📺 Video Player
-![Video Player](https://via.placeholder.com/800x450/f8f9fa/212529?text=Video+Player+with+Recommendations)
-
-### 🌙 Dark Mode
-![Dark Mode](https://via.placeholder.com/800x450/1a1a1a/ffffff?text=Dark+Mode+Interface)
-
-</div>
-
----
-
 ## 📊 Performance & Browser Support
 
 <div align="center">
@@ -376,7 +350,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Made with ❤️ by [Niladri](https://github.com/niladri-1)**
+**Made with ❤️ by [Niladri Chatterjee](https://github.com/niladri-1)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-niladri--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niladri-1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
@@ -386,9 +360,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 </div>
 
 ---
-
-<div align="center">
-
-![Footer](https://via.placeholder.com/800x100/FF0000/FFFFFF?text=YouTube+Clone+-+Built+with+Next.js+%26+TypeScript)
-
-</div>
